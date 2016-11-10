@@ -17,7 +17,7 @@ Switch | Action | Description
 --- | --- | ---
 --action | check | Checks whether the chromium login database contains any data.
 --action | retrieve | Attempts to copy over the chromium login database to the scripts temp folder.
---action | harvest | Extracts any login data that resides inside the chromium login database.
+--action | harvest | Extracts and decrypts any login data that resides inside the chromium login database.
 
 --
 
