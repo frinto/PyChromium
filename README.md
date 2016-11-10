@@ -1,7 +1,9 @@
 # PyChromium
 
 ###*Short Important Note*
-There is no point for abstract classes to be present in the script at the current state. I was planning to include **Linux** at some point but haven't had the time yet. Please ignore this small issue. Thank you!
+There is no point for abstract classes to be present in the script at the current state. I was planning to include **Linux** at some point but haven't had the time yet. Please ignore this small issue.
+
+Thank you!
 
 --
 
