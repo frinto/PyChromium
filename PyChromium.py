@@ -146,7 +146,7 @@ class ChromiumW ( Chromium ) :
 
 
 def main ( action ) :
-	print ( 'PyChromium ( Version 0.1 Build 10142016 )\n' )
+	print ( 'PyChromium ( Version 0.1 Build 11102016 )\n' )
 
 	W = ChromiumW ( )
 	if ( action == 'check' ) :
